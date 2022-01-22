@@ -21,3 +21,5 @@ Les utilisateurs de l’application sont de deux types : les administrateurs et 
 * **Adja Bineta KONE**
 * **Mame Diarra NGOM**
 * **Boubacar Sock NIANG** 
+
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
