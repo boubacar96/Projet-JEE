@@ -17,7 +17,7 @@ Les utilisateurs de l’application sont de deux types : les administrateurs et 
 
 ## Crée par
 
-* **Sadou BALDÉ ** 
+* **Sadou BALDÉ **
 * **Adja Bineta KONE**
 * **Mame Diarra NGOM**
 * **Boubacar Sock NIANG** 
